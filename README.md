@@ -72,6 +72,7 @@ This project showcases the basics of **autonomous navigation**, **sensor-based c
 ## 👨‍💻 Author  
 
 **Sujay J**  
+📧 Email: [sujayj777@gmail.com](mailto:sujayj777@gmail.com)  
 🔗 [GitHub](https://github.com/Sir-dragmaster-j)  
 💼 [LinkedIn](https://www.linkedin.com/in/sujay-j-b59959357)
 
